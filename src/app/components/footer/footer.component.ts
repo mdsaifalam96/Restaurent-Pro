@@ -12,8 +12,8 @@ export class FooterComponent implements OnInit {
     createdby: string;
 
     ngOnInit(): void {
-        this.url = 'http://www.templatemonster.com/';
-        this.company = 'TemplateMonster.com';
+       this.url = 'https://github.com/mdsaifalam96/Resturent-Pro';
+        this.company = 'Md Saif Alam';
         this.createdby = 'Website designed by';
     }
 }
