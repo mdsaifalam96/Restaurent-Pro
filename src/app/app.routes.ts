@@ -28,7 +28,8 @@ export const ROUTES: Routes = [
         canActivate: [LoggedInGuard]
     },
 
-    {path: 'about', loadChildren: './components/about/about.module#AboutModule'},
+    //{path: 'home', loadChildren: './components/home/home.module#HomeModule'},
+	{path: 'about', loadChildren: './components/about/about.module#AboutModule'},
     {path: 'blog', loadChildren: './components/blog/blog.module#BlogModule'},
     {path: 'reservation', loadChildren: './components/reservation/reservation.module#ReservationModule'},
     {path: 'contact', loadChildren: './components/contact/contact.module#ContactModule'},
