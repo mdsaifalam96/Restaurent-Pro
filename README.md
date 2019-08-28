@@ -78,15 +78,6 @@ This project is under development.
     email: backupsaif02@gmail.com
     password: 123456 
 ```
-### screenshots
-![3_inicial](https://user-images.githubusercontent.com/5189618/42416796-aac5e15c-824e-11e8-899f-e0144ab5b4d6.png)
-![4_list](https://user-images.githubusercontent.com/5189618/42416795-aaa6c25e-824e-11e8-908b-860397fad317.png)
-![4_detail](https://user-images.githubusercontent.com/5189618/42416793-aa674dc2-824e-11e8-87f7-5ceb48ae6da1.png)
-![6_order](https://user-images.githubusercontent.com/5189618/42416792-aa3f345e-824e-11e8-9334-0d4a6d2ad898.png)
-![5_chets](https://user-images.githubusercontent.com/5189618/42416794-aa880fee-824e-11e8-8f18-3e79a7d38809.png)
-
 ##### Credits
 `Template link used for the project http://www.templatemonster.com/`
-"# Resturent_Project" 
-"# Resturent_Project" 
 "# Resturent_Project" 
